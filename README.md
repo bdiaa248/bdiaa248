@@ -36,14 +36,6 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 * ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Orange?style=flat-square)
 
 ---
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdiaa248&theme=radical&hide_border=true" alt="Abdelrahman's Streak" />
-</div>
-
----
 ## 📫 Let's Connect
 
 <p align="left">
