@@ -39,8 +39,13 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 
 ## 📈 GitHub Stats
 
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bdiaa248&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bdiaa248&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdelrahman's GitHub Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdiaa248&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 ---
 
