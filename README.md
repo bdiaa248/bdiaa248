@@ -11,11 +11,11 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 
 | **Domain** | **Tools & Methodologies** |
 | :--- | :--- |
-| 🧠 **Analytics** | ![Statistics](https://img.shields.io/badge/Strategy-Risk_Analysis-red?style=flat-square) **Descriptive Statistics · Correlation · Segmentation · Hypothesis Testing** |
-| 🐍 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 📊 **Data Ops** | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| 🌍 **Geo-Spatial** | ![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=esri&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge) |
-| 📉 **Viz** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black) ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) |
+|  **Analytics** | ![Statistics](https://img.shields.io/badge/Strategy-Risk_Analysis-red?style=flat-square) **Descriptive Statistics · Correlation · Segmentation · Hypothesis Testing** |
+|  **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+|  **Data Ops** | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+|  **Geo-Spatial** | ![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=esri&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge) |
+|  **Viz** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black) ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) |
 
 ---
 
