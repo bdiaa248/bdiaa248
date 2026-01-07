@@ -36,7 +36,7 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 * ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Orange?style=flat-square)
 
 ---
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-diaa-080496334/" target="_blank">
