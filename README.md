@@ -7,7 +7,7 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 
 ---
 
-## 🛠️ Tech Stack & Analytical Toolkit
+##  Tech Stack & Analytical Toolkit
 
 | **Domain** | **Tools & Methodologies** |
 | :--- | :--- |
@@ -19,16 +19,16 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔥 [Forest Fire Risk Analysis](https://github.com/bdiaa248/forest-fire-risk-analysis)
+### 1 [Forest Fire Risk Analysis](https://github.com/bdiaa248/forest-fire-risk-analysis)
 *> Spatial Data Analysis | Environmental Risk Assessment*
 * **The Challenge:** Analyzing 517 fire incidents in Montesinho Natural Park to predict risk zones.
 * **The Insight:** Demonstrated how relying on "Mean" metrics can misrepresent wildfire risk due to extreme outliers, shifting the analysis toward **Median-based decision making**.
 * **The Impact:** Created a spatial segmentation map to identify "Hotspots" for optimized resource allocation.
 * ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Stats](https://img.shields.io/badge/Statistics-Blue?style=flat-square)
 
-### 📉 [Customer Churn Analysis](https://github.com/bdiaa248/customer-churn-analysis-telecom)
+### 2 [Customer Churn Analysis](https://github.com/bdiaa248/customer-churn-analysis-telecom)
 *> Business Intelligence | Retention Strategy*
 * **The Challenge:** Reducing revenue leakage for a telecom company with 7,000+ customers.
 * **The Insight:** Identified that **Month-to-Month contracts** and lack of **Tech Support** were the primary churn drivers, not price alone.
