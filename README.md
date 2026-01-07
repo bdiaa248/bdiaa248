@@ -47,7 +47,7 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdiaa248&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
----
+
 
 ## 📫 Let's Connect
 
