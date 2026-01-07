@@ -48,6 +48,16 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bdiaa248&theme=radical&hide_border=false" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bdiaa248&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="General Stats" />
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <p align="left">
