@@ -7,6 +7,14 @@
 **"Transforming spatial and tabular data into risk-driven, decision-ready insights."**
 
 I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is on solving real-world environmental and business problems by moving beyond simple metrics to uncover deep, actionable patterns using **Statistical Analysis**, **Machine Learning**, and **GIS Technologies**.
+<p align="center">
+  <a href="https://abdodiaa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
