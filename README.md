@@ -11,9 +11,7 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
   <a href="https://abdodiaa.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-diaa-080496334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
   <a href="https://www.youtube.com/@DiaaShousha" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Diaa%20Shousha-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
