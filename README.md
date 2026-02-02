@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-#  Hi, I'm Abdelrahman Diaa
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Abdelrahman Diaa
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=GeoAI+%7C+Spatial+Data+Science;Machine+Learning+for+Earth+%F0%9F%8C%8D;Turning+Maps+into+Decisions" />
 </p>
