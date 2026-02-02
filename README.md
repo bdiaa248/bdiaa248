@@ -71,7 +71,7 @@ I bridge the gap between **Spatial Analysis** and **Data Science**. My focus is 
 
 ---
 
-##  Let's Connect <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png">
+##  Let's Connect <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30px>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-diaa-080496334/" target="_blank">
