@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=GeoAI+%7C+Spatial+Data+Science;Machine+Learning+for+Earth+%F0%9F%8C%8D;Turning+Maps+into+Decisions" />
 </p>
 
-### 🧠 AI & GeoAI Engineer | Founder at VEXL
+### AI & GeoAI Engineer | Founder at VEXL
 **"Transforming raw data and spatial coordinates into intelligent, risk-driven decisions."**
 
 I bridge the gap between **Spatial Intelligence** and **Data Science**. My focus is on solving real-world environmental and business problems by moving beyond simple metrics to uncover deep, actionable patterns using **Machine Learning**, **Statistical Analysis**, and **GIS Technologies**.
@@ -20,7 +20,7 @@ I bridge the gap between **Spatial Intelligence** and **Data Science**. My focus
 
 ---
 
-## 🛠️ Tech Stack & Analytical Toolkit
+## Tech Stack & Analytical Toolkit
 
 | **Domain** | **Tools & Methodologies** |
 | :--- | :--- |
@@ -32,7 +32,7 @@ I bridge the gap between **Spatial Intelligence** and **Data Science**. My focus
 
 ---
 
-## 🚀 Featured AI & Analytics Projects
+## Featured AI & Analytics Projects
 
 ### 🌿 [Green Fleet AI Predictor](https://github.com/bdiaa248/Green-Fleet-AI-Predictor)
 *> Machine Learning | Environmental Policy Compliance*
@@ -57,7 +57,7 @@ I bridge the gap between **Spatial Intelligence** and **Data Science**. My focus
 
 ---
 
-## 📜 Certifications & Credentials
+## Certifications & Credentials
 
 | **Credential (Click to Verify)** | **Organization** | **Issued** |
 | :--- | :--- | :--- |
@@ -68,7 +68,7 @@ I bridge the gap between **Spatial Intelligence** and **Data Science**. My focus
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=bdiaa248&theme=radical&hide_border=false" alt="Streak Stats" />
@@ -77,7 +77,7 @@ I bridge the gap between **Spatial Intelligence** and **Data Science**. My focus
 
 ---
 
-## 🤝 Let's Connect <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30px">
+## Let's Connect <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30px">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-diaa-080496334/" target="_blank">
