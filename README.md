@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=GeoAI+%7C+Spatial+Data+Science;Machine+Learning+for+Earth+%F0%9F%8C%8D;Turning+Maps+into+Decisions" />
 </p>
 
-### 🧠 AI & GeoAI Engineer | Co-Founder at VEXL
+### 🧠 AI & GeoAI Engineer | Founder at VEXL
 **"Transforming raw data and spatial coordinates into intelligent, risk-driven decisions."**
 
 I bridge the gap between **Spatial Intelligence** and **Data Science**. My focus is on solving real-world environmental and business problems by moving beyond simple metrics to uncover deep, actionable patterns using **Machine Learning**, **Statistical Analysis**, and **GIS Technologies**.
